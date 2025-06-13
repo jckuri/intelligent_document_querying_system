@@ -1,5 +1,7 @@
 # AWS Bedrock Knowledge Base with Aurora Serverless
 
+[The solutions for each rubric item are in the file rubric.md](rubric.md)
+
 This project sets up an AWS Bedrock Knowledge Base integrated with an Aurora Serverless PostgreSQL database. It also includes scripts for database setup and file upload to S3.
 
 ## Table of Contents
